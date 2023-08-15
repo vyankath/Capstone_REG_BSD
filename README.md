@@ -1,7 +1,7 @@
 # Problem Statement:- 
 Rental bicycles have been introduced in numerous urban centers to elevate the convenience of mobility. Ensuring the timely availability and accessibility of these rental bikes is pivotal in minimizing wait times. Consequently, establishing a consistent inventory of rental bikes within the city emerges as a significant focal point. The key challenge lies in forecasting the requisite bike quantities for each hour to maintain a steady provision of rental bikes.
 
-**The Data Set and Approach:-**
+# The Data Set and Approach:-**
 
 The dataset used for this project comes from a bike sharing company and contains information about bike rentals, dates, times, weather, holidays, and operational days.
 
